@@ -1,0 +1,11 @@
+name,code,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Albania,ALB,Europe,Southern Europe,28748.0,1912.0,3401200,71.6,3205.0,2500.0,Shqiperia,Republic,Rexhep Mejdani,34.0,AL
+Bosnia and Herzegovina,BIH,Europe,Southern Europe,51197.0,1992.0,3972000,71.5,2841.0,,Bosna i Hercegovina,Federal Republic,Ante Jelavic,201.0,BA
+Spain,ESP,Europe,Southern Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+Greece,GRC,Europe,Southern Europe,131626.0,1830.0,10545700,78.4,120724.0,119946.0,Ellada,Republic,Kostis Stefanopoulos,2401.0,GR
+Croatia,HRV,Europe,Southern Europe,56538.0,1991.0,4473000,73.7,20208.0,19300.0,Hrvatska,Republic,Stipe Mesic,2409.0,HR
+Italy,ITA,Europe,Southern Europe,301316.0,1861.0,57680000,79.0,1161755.0,1145372.0,Italia,Republic,Carlo Azeglio Ciampi,1464.0,IT
+Macedonia,MKD,Europe,Southern Europe,25713.0,1991.0,2024000,73.8,1694.0,1915.0,Makedonija,Republic,Boris Trajkovski,2460.0,MK
+Portugal,PRT,Europe,Southern Europe,91982.0,1143.0,9997600,75.8,105954.0,102133.0,Portugal,Republic,Jorge Sampaio,2914.0,PT
+Slovenia,SVN,Europe,Southern Europe,20256.0,1991.0,1987800,74.9,19756.0,18202.0,Slovenija,Republic,Milan Kucan,3212.0,SI
+Yugoslavia,YuG,Europe,Southern Europe,102173.0,1918.0,10640000,72.4,17000.0,,Jugoslavija,Federal Republic,Vojislav KoStunica,1792.0,Yu
